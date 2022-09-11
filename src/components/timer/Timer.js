@@ -56,8 +56,8 @@ function Timer({ isUser }) {
     console.log(isUser, isUserRef.current, isUserRef);
     if (isUserRef.current) {
       console.log(mode, modeRef.current, isPaused, isPausedRef.current);
-      settings.setWorkTime(2 / 6);
-      settings.setBreakTime(1 / 6);
+      settings.setWorkTime(25);
+      settings.setBreakTime(5);
       if (!isPausedRef.current) {
         setIsPaused(isPausedRef.current);
         isPausedRef.current = isPaused;
