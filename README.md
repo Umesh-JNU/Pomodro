@@ -8,3 +8,4 @@ This project is done for the [MTechZilla](https://mtechzilla.com/) as an assessm
 4. Here comes the main functionality of the app ie. user can access the pomodro timer.
 5. User can play, pause and reset the timer.
 
+[Demo](https://papaya-mochi-962204.netlify.app)
